@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "map reader", "map reader.csproj", "{F617D1D4-5ED0-42B5-85B2-4EE1F327BA46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F617D1D4-5ED0-42B5-85B2-4EE1F327BA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F617D1D4-5ED0-42B5-85B2-4EE1F327BA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F617D1D4-5ED0-42B5-85B2-4EE1F327BA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F617D1D4-5ED0-42B5-85B2-4EE1F327BA46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA59ED27-704A-4F40-9E97-43617A6024BE}
+	EndGlobalSection
+EndGlobal

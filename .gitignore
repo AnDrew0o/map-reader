@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Map and image folder
+/maps/*
+# !/maps/Place unzipped maps here.txt
